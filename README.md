@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## On the road to Archmage!
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/303f39a0-6e3b-42fa-8cdb-99fe04857384/thumbnail" >
+</p>
+
 <!--
 **fmmda/fmmda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
